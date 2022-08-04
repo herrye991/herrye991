@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Herry Mandala</h1>
 <h3 align="center">A passionate backend developer from Indonesia</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact with me: <a href="mailto:herrymandala@linuxmail.org">herrymandala@linuxmail.org</a></h3>
 <p align="left">
 </p>
 
